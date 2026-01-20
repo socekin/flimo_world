@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 自托管 Web 字体 */
+@font-face {
+  font-family: 'BespokeSerif';
+  src: url('/font/BespokeSerif-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  font-family:
+    'BespokeSerif',
+    -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial,
+    'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei',
+    'Noto Sans CJK SC', 'Source Han Sans SC',
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+    serif;
+  overflow-x: hidden;
+}
+
+/* 自定义滚动条 - 垂直 */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3f3f46;
+  /* Zinc-700 */
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #52525b;
+  /* Zinc-600 */
+}
+
+/* 平滑滚动 - 移除全局设置以避免与 JS 滚动冲突 */
+html {
+  /* scroll-behavior: smooth; */
+}
+
+/* 横向滚动容器优化 */
+.overflow-x-auto {
+  scrollbar-width: thin;
+  scrollbar-color: #3f3f46 transparent;
+}

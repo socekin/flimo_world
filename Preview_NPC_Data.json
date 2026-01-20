@@ -1,0 +1,138 @@
+{
+  "player_view_npc_data": [
+    {
+      "id": "marcus_doyle",
+      "name": "Marcus Doyle",
+      "role": "Sheriff",
+      "description": "The lawman of Westridge Town. Burly, uniform straining at the seams, fond of drinking. He's self-appointed as the 'official investigator' of this case, speaking loudly and impatiently directing the scene, seemingly very annoyed by the chaos.",
+      "age": 48,
+      "gender": "Male",
+      "goal": "Catch the criminal, maintain town order, and assist you in the investigation.",
+      "carry_with": [
+        "Colt revolver",
+        "Shiny sheriff's badge",
+        "Leather gloves"
+      ],
+      "recent_events": "Currently directing the scene, claiming to have caught Jonah red-handed. He shows a businesslike seriousness toward the Federal Inspector's (your) arrival.",
+      "short_term_plan": "Keep bystanders outside the police line and push to get the prisoner back to jail quickly.",
+      "social_network": {
+        "harlan_tate": "Superior",
+        "maeve_alcott": "Acquaintance"
+      }
+    },
+    {
+      "id": "harlan_tate",
+      "name": "Harlan Tate",
+      "role": "Mayor",
+      "description": "A middle-aged politician who seems out of place in the crowd.",
+      "age": 55,
+      "gender": "Male",
+      "goal": "Maintain his dignity as mayor.",
+      "carry_with": [
+        "Tightly clutched briefcase",
+        "Handkerchief for wiping sweat",
+        "Fine suit"
+      ],
+      "recent_events": "Rushed to the scene immediately after the explosion, but didn't direct rescue efforts, just stood aside watching anxiously.",
+      "short_term_plan": "Sitting restlessly in the saloon, trying to avoid reporters' cameras.",
+      "social_network": {
+        "marcus_doyle": "Assistant who maintains his authority"
+      }
+    },
+    {
+      "id": "jonah_briggs",
+      "name": "Jonah Briggs",
+      "role": "Rancher",
+      "description": "A ragged, haggard-faced poor man. He's handcuffed in the corner, clutching an unknown small medicine bottle as if it were his lifeline.",
+      "age": 32,
+      "gender": "Male",
+      "goal": "Remains silent. He admits to blowing the door but refuses to share other details.",
+      "carry_with": [
+        "Tightly gripped medicine bottle",
+        "Worn clothing",
+        "Handcuffs"
+      ],
+      "recent_events": "Arrested at the explosion scene. No cash from the missing vault was found on him.",
+      "short_term_plan": "Stares at the ground, submits to the sheriff's scolding, only resisting violently when you try to take his medicine bottle.",
+      "social_network": {
+        "lila_hart": "Frequent visitor to her shop"
+      }
+    },
+    {
+      "id": "maeve_alcott",
+      "name": "Maeve Alcott",
+      "role": "Saloon Owner",
+      "description": "A charming yet shrewd proprietress. She runs the town's only entertainment venue and seems to know every man's weakness.",
+      "age": 42,
+      "gender": "Female",
+      "goal": "Protect her business and her 'regulars'.",
+      "carry_with": [
+        "Elegant fan",
+        "Bar keys",
+        "An expensive bottle of red wine"
+      ],
+      "recent_events": "Claims she was hosting guests at the saloon all last night and knows the sheriff's whereabouts well.",
+      "short_term_plan": "Offers you free drinks, observing your intentions.",
+      "social_network": {
+        "marcus_doyle": "Regular customer"
+      }
+    },
+    {
+      "id": "ramon_vega",
+      "name": "Ramon Vega",
+      "role": "Blacksmith",
+      "description": "A taciturn craftsman. He looks somewhat resentful.",
+      "age": 40,
+      "gender": "Male",
+      "goal": "Wants to reclaim what belongs to him but is too intimidated by the sheriff's authority to speak up.",
+      "carry_with": [
+        "Smithing hammer",
+        "Personal flask",
+        "Tool belt"
+      ],
+      "recent_events": "Shows professional puzzlement at the explosion damage. He gazes at the ruins, seemingly deep in thought.",
+      "short_term_plan": "Drinks in the saloon corner. If you show interest in 'tools' or 'techniques', he might be willing to chat.",
+      "social_network": {
+        "marcus_doyle": "Seems to hold a grudge against the sheriff"
+      }
+    },
+    {
+      "id": "lila_hart",
+      "name": "Lila Hart",
+      "role": "Grocer",
+      "description": "A penny-pinching businesswoman. She's waving a bill around, angrily complaining to everyone about someone defaulting on payment.",
+      "age": 38,
+      "gender": "Female",
+      "goal": "Collect debts. She seems to have dirt on the town's bigwigs she wants to share.",
+      "carry_with": [
+        "Crumpled bill",
+        "Abacus",
+        "Reading glasses"
+      ],
+      "recent_events": "Publicly claims someone bought enough explosives from her to blow up the whole town. Very emotional.",
+      "short_term_plan": "Seizes every opportunity to complain to you about the debtor, convinced that person is connected to the bombing.",
+      "social_network": {
+        "harlan_tate": "Debt dispute opponent"
+      }
+    },
+    {
+      "id": "eli_watkins",
+      "name": "Eli Watkins",
+      "role": "Journalist",
+      "description": "An aggressive young reporter. Camera in hand, he's excited like a shark smelling blood. He seems to think this is more than a simple robbery case.",
+      "age": 24,
+      "gender": "Male",
+      "goal": "Sell you his 'exclusive truth'. He has a photo he claims captured an important clue.",
+      "carry_with": [
+        "Camera",
+        "Notebook",
+        "A pen with a chewed-up cap"
+      ],
+      "recent_events": "Has been following the mayor, convinced this is critically connected to the case.",
+      "short_term_plan": "Keeps showing you the photo, trying to get you to focus on the mayor's movements.",
+      "social_network": {
+        "harlan_tate": "Long-term investigation subject"
+      }
+    }
+  ]
+}

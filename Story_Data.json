@@ -1,0 +1,12 @@
+{
+  "plot_outlines": {
+    "system_version": {
+      "title": "True Plot Outline (System Internal)",
+      "content": "Westridge Town sits on the desolate frontier of the Federation, once prosperous from mining, but now left with only depleted ore veins and growing debt. In this wind-eroded land, desperation breeds crime: Mayor Harlan Tate has been embezzling bank funds to illegally mine the back hills and line his own pockets, even purchasing contraband explosives; while Sheriff Marcus Doyle, who appears to uphold justice, is actually a desperate gambler who owes the saloon owner a massive gambling debt and faces violent collection.\n\nOn the very day the Federal Inspector (player) arrives to audit the accounts, a carefully planned 'double-cross' scheme explodes the town. Sheriff Marcus exploited the mayor's illegal explosive purchases, stole some of it, and using his sick daughter's medicine as bait, coerced the desperate rancher Jonah to blow open the bank vault. After the explosion, the sheriff took the cash reserves to pay off his gambling debt, but arrested Jonah as a 'thug' on the spot, attempting to silence him and close the case.\n\nThe player enters a maze of lies: the mayor, fearing his mining scandal will be exposed, becomes the perfect scapegoat; the rancher chooses to remain silent for his family's safety; while the real mastermind, the sheriff, poses as the face of justice, trying to use the player's federal authority to complete this perfect crime.\n\nEveryone is doing something at their location, waiting for the inspector."
+    },
+    "player_version": {
+      "title": "Story Outline",
+      "content": "Westridge Town sits on the Federation's frontier trade route, a settlement barely surviving in the dust. On the surface, administrative operations continue - the mayor busies himself with municipal planning, the sheriff sternly maintains order. However, as the ore veins dried up, the town's economic lifeline long since severed. Rumors of corruption, smuggling, and privileged elites whisper through saloons and alleys. In every townsperson's eyes lies fear of the future and suspicion of those in power.\n\nRecently, the Federal Treasury Department detected abnormal financial flows and irregular procurement in Westridge Town Bank. You, as a Federal Inspector, arrive with a mission to audit and investigate. However, your arrival seems to be the last straw - on the afternoon you arrive, an explosion shatters the town's facade, the bank vault is bombed, and a suspect is arrested on the spot."
+    }
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Stables",
+    "center": {
+      "x": 1321,
+      "y": 440
+    }
+  },
+  {
+    "name": "Residential Area",
+    "center": {
+      "x": 79,
+      "y": 379
+    }
+  },
+  {
+    "name": "Tavern",
+    "center": {
+      "x": 959,
+      "y": 352
+    }
+  },
+  {
+    "name": "Grocery Store",
+    "center": {
+      "x": 949,
+      "y": 413
+    }
+  },
+  {
+    "name": "Blacksmith",
+    "center": {
+      "x": 937,
+      "y": 195
+    }
+  },
+  {
+    "name": "Mine Entrance",
+    "center": {
+      "x": 921,
+      "y": 27
+    }
+  },
+  {
+    "name": "Church",
+    "center": {
+      "x": 327,
+      "y": 152
+    }
+  },
+  {
+    "name": "Train Station",
+    "center": {
+      "x": 791,
+      "y": 640
+    }
+  },
+  {
+    "name": "Bank",
+    "center": {
+      "x": 531,
+      "y": 344
+    }
+  },
+  {
+    "name": "City Hall",
+    "center": {
+      "x": 671,
+      "y": 322
+    }
+  },
+  {
+    "name": "Police Station",
+    "center": {
+      "x": 793,
+      "y": 336
+    }
+  }
+]
