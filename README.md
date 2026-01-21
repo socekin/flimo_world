@@ -66,7 +66,7 @@ Edit `.env.local` with your API keys:
 ```bash
 # LLM (Required)
 VITE_OPENROUTER_API_KEY=your_openrouter_key
-VITE_OPENROUTER_MODEL=google/gemini-2.5-flash
+VITE_OPENROUTER_MODEL=google/gemini-3-flash-preview
 
 # Image Generation (Required)
 VITE_GEMINI_API_KEY=your_gemini_key
